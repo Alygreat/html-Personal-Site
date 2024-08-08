@@ -1,0 +1,85 @@
+body {
+  background-color: #FFFFFF;
+}
+
+/*#DFDFDE*/
+/*#95BDFF*/
+/*OK-facebook #3E54AC*/
+/* aproape de facebook #537FE7*/
+/* real facebook color #3B5998*/
+
+/*
+hr {
+
+
+width: 10%;
+border-style: none;
+border-top-style: dotted;
+
+border-color: grey;
+border-width: 5px;
+
+}
+
+*/
+
+h1 {
+  color: /*#3B5998*/ #66BFBF  ;
+  font-variant: small-caps;
+  font-style: normal;
+font-family: sans-serif;
+}
+
+h3{
+  color: #3B5998 /*#66BFBF*/;
+  font-size: 40px;
+}
+
+.it {
+  color: red
+}
+
+h4{
+  color: #66BFBF ;
+  text-align: justify;
+
+}
+img {
+
+  border-radius: 20%;
+  width: 170px;
+
+}
+
+a {
+  color: white ;
+}
+
+.top-container {
+background-color: #F5EDED; /* #E4F9F5;*/
+
+}
+
+.membrii-container {
+background-color: #E7F0DC;
+
+}
+
+.imagini-container {
+background-color: #DDDDDD;
+
+}
+
+.evenimente-container {
+background-color: #C7C8CC;
+
+}
+
+.join-container {
+background-color: #213555;
+
+}
+
+* {
+  text-align: center ;
+}
