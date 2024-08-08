@@ -39,6 +39,10 @@ h3{
   color: red
 }
 
+.buton{
+  color: black;
+}
+
 h4{
   color: #66BFBF ;
   text-align: justify;
@@ -60,9 +64,7 @@ background-color: #F5EDED; /* #E4F9F5;*/
 
 }
 
-.buton {
-  color: black; 
-}
+
 .membrii-container {
 background-color: #E7F0DC;
 
