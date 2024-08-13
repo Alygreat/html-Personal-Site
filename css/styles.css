@@ -28,6 +28,16 @@ h1 {
   font-variant: small-caps;
   font-style: normal;
 font-family: sans-serif;
+
+
+  border: 10px solid #404B69;
+
+    line-height: 2;
+
+    color: #DA0463;    
+  /*  display: inline-block; */
+
+    margin: 10px;
 }
 
 h2 {
