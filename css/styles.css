@@ -41,6 +41,10 @@ h3{
   font-size: 40px;
 }
 
+hr {
+  width: 480px;
+  }
+
 .it {
   color: red
 }
