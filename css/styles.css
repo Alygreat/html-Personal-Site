@@ -50,6 +50,10 @@ hr {
   color: red
 }
 
+.img1 {
+  border-radius: 2%;
+}
+
 p {
   color: #66BFBF;
   font-size: 19px;
