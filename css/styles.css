@@ -37,9 +37,9 @@ h2 {
 }
 
 h3{
-  color: #3B5998 /*#66BFBF*/;
-  font-size: 40px;
-  font-style: oblique;
+  color: white;  /* #3B5998 */ /*#66BFBF*/;
+  font-size: 10px;
+ /* font-style: oblique; */
 }
 
 hr {
