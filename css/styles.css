@@ -50,9 +50,10 @@ hr {
   color: red
 }
 
-label{
-  font-color: white;
+.mesaj{
+  color: white;
 }
+
 .roll{
 font-size: 22px;  
 }
